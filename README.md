@@ -1,7 +1,6 @@
-##  Olá, eu sou o Rodrigo Schuab!
+##  Desenvolvedor Full Stack | Java • Spring Boot • React • React Native
 
-Desenvolvedor Full Stack em formação, com foco em criar soluções modernas, funcionais e bem estruturadas.  
-Atuo com **Backend, Frontend e Mobile**, transformando aprendizado em projetos práticos e reais.
+Desenvolvedor Full Stack em formação, focado na criação de aplicações modernas, escaláveis e bem estruturadas, com experiência prática em projetos reais utilizando Java, Spring Boot, React e React Native.
 
 ---
 
