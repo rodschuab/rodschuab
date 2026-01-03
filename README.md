@@ -1,7 +1,6 @@
 ##  Desenvolvedor Full Stack | Java • Spring Boot • React • React Native
 
 Desenvolvedor Full Stack em formação, focado na criação de aplicações modernas, escaláveis e bem estruturadas, com experiência prática em projetos reais utilizando Java, Spring Boot, React e React Native.
-
 ---
 
 ##  Sobre mim
@@ -37,7 +36,7 @@ Organizo meus projetos acadêmicos e pessoais aqui no GitHub, incluindo:
 
 ---
 
-## 🛠 Ferramentas de Desenvolvimento
+##  Ferramentas de Desenvolvimento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
