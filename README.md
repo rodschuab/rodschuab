@@ -1,6 +1,6 @@
 ##  Desenvolvedor Full Stack | Java • Spring Boot • React • React Native
 
-Desenvolvedor Full Stack em formação, focado na criação de aplicações modernas, escaláveis e bem estruturadas, com experiência prática em projetos reais utilizando Java, Spring Boot, React e React Native.
+ ### Desenvolvedor Full Stack em formação, focado na criação de aplicações modernas, escaláveis e bem estruturadas, com experiência prática em projetos reais utilizando Java, Spring Boot, React e React Native. ###
 ---
 
 ##  Sobre mim
