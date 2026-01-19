@@ -1,17 +1,17 @@
-## 👨‍💻 Desenvolvedor Backend / Full Stack | Node.js • Java • Spring Boot • React • React Native
+##  Desenvolvedor Backend / Full Stack | Node.js • Java • Spring Boot • React • React Native
 
 Desenvolvedor Backend / Full Stack com experiência prática na criação de aplicações modernas, escaláveis e bem estruturadas. Atuação em projetos reais utilizando **Node.js** e **Java (Spring Boot)** no backend, além de **React** e **React Native** no desenvolvimento web e mobile. Vivência com **APIs REST**, **autenticação JWT**, integração entre sistemas e boas práticas de desenvolvimento.
 
 ---
 
-## 🙋‍♂️ Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💼 Atuação profissional com **Backend em Node.js e Java (Spring Boot)**
-- 🌐 Desenvolvimento **Frontend com React**
-- 📱 Desenvolvimento **Mobile com React Native (TypeScript)**
-- 🔐 Experiência com **APIs REST**, **JWT** e integração entre sistemas
-- 🚀 Sempre explorando boas práticas, arquitetura e código limpo  
-- 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-schuab-628798249/
+##  Sobre mim
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Atuação profissional com **Backend em Node.js e Java (Spring Boot)**
+-  Desenvolvimento **Frontend com React**
+-  Desenvolvimento **Mobile com React Native (TypeScript)**
+-  Experiência com **APIs REST**, **JWT** e integração entre sistemas
+-  Sempre explorando boas práticas, arquitetura e código limpo  
+-  LinkedIn: https://www.linkedin.com/in/rodrigo-schuab-628798249/
 
 ---
 
